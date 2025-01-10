@@ -7,4 +7,4 @@ Ich werde an meiner Webseite arbeiten. Ich will eine sehr gute und übersichtlic
 
 10.01.2025
 
--[]
+- [ ] Webseite verbessern
