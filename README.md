@@ -16,11 +16,11 @@ Ich werde an meiner Webseite arbeiten. Ich will eine sehr gute und übersichtlic
 
 
 17.01.2025
-- [ ] xyxy
-- [ ] xyxy
-- [ ] xyxy
+- [ ] Meine Website zu einer SPA umwandeln.
+- [ ] Kontext generieren mit ChatGPT
+- [ ] Website erweitern.
 
-✍️ Heute habe ich...
+✍️ Heute habe ich effizient an meiner Website gearbeitet. Ich habe sie zu einer SPA umgewandelt, das es so viel besser für mich ist. Die Website habe ich verlängert, also ich habe noch weitere Abschnitte hinzugefügt. Jedoch ist mir etwas während der Arbeit aufgefallen. Immer wenn ich etwas schreibe auf Github muss ich die Wörter zählen und um dsa zu machen, muss ich auf eine externe Website zugreifen. Ich möchte gerne selbstständiger sein und will für nächste Woche eine SPA programmieren, auf Welche man Wörter Zählen kann mit schöner Farbe und mit schönen Animationen.
 
 
 
