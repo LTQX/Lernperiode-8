@@ -3,8 +3,13 @@
 
 Grob-Planung
 
-Ich werde an meiner Webseite arbeiten. Ich will eine sehr gute und übersichtliche Webseite coden, welche Augen öffnen.
+Ich werde an meiner Webseite arbeiten. Ich will eine sehr gute und übersichtliche Webseite am Ende haben.
 
 10.01.2025
 
-- [ ] Webseite verbessern
+- [x] Color Palette finden
+- [x] Color Palette testen
+- [ ] Mit Color Palette zufrieden sein
+- [x] Hover hinzufügen
+
+Heute habe ich...
