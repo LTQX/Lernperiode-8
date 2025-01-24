@@ -26,8 +26,8 @@ Ich werde an meiner Webseite arbeiten. Ich will eine sehr gute und übersichtlic
 
 
 24.01.2025
-- [ ] xyxy
-- [ ] xyxy
-- [ ] xyxy
+- [x] Projektstruktur machen
+- [x] Mit dem neuen Projekt anfangen
+- [x] Projekt abschliessen
 
-✍️ Heute habe ich...
+✍️ Heute habe ich ein neues Projekt gestartet. Ich habe eine Single Page Application programmiert, mit der man Wörter, Zeichen, Sätze, Paragraphen und mehr zählen kann. Es war interessant, die Funktionen zu erstellen, die die Anzahl dieser Dinge in Echtzeit berechnen. Die Anwendung ist einfach zu bedienen und zeigt sofort die Ergebnisse an. Heute war ein guter Tag, weil ich das Projekt erfolgreich abschließen konnte. Es fühlt sich gut an, ein funktionierendes Tool zu haben, das leicht zu benutzen ist. Ich bin stolz darauf, was ich gemacht habe, und freue mich darauf, es in Zukunft weiter zu verbessern und neue Funktionen hinzuzufügen.
